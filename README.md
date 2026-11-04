@@ -23,6 +23,7 @@ A console-based social feed simulation built in C++ utilizing Singly Linked List
 
 ## Repository Structure
 
+- 'LINK LIST C++ project.pdf`: Project report with documentation and execution screenshots.
 - `main.cpp`: Complete C++ source code with class definitions and execution menu loops.
 
 ---
